@@ -121,6 +121,14 @@ header img:hover, .cartao_pokemon:hover {
     background-color: #a6b91a;
 }
 
+.normal {
+    background-color: #a4acaf;
+}
+
+.eletrico {
+    background-color: #eed535;
+}
+
 .descricao {
     max-height: 80px;
     overflow-y: scroll;
